@@ -1,0 +1,8 @@
+langdetect
+python-dotenv
+langchain
+langchain-community
+faiss-cpu
+langchain-google-genai
+crewai
+crewai-tools

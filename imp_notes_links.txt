@@ -1,4 +1,4 @@
-Create a folder named "docs" and add your files -> "resume.pdf" and "oil_gas_mining.pdf","statup_template.docx" in it before running the code
+Create a folder named "docs" and add your files -> "resume.pdf" and "oil_gas_mining.pdf","startup_template.docx" in it before running the code
 
 pip install -r requirements.txt
 cntrl+c to stop

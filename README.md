@@ -3,6 +3,7 @@
 🤖 This is an **Agentic AI and RAG Q&A AI assistant** — an agent that can answer questions by searching local documents (PDF/DOCX) and, if needed, autonomously falling back to web search agent using CrewAI + Serper. It detects question language (English or Spanish), provides contextual answers, and even translates responses automatically when required.
 
 🧠 **What is This Project?**
+
 This assistant is a hybrid retrieval-augmented question-answering system that can do:
 
 Maintain context from your documents (knowledge base).
@@ -16,6 +17,7 @@ Seamlessly switch between local document Q&A and online information fetching whe
 It is powered by LangChain, FAISS, Google Gemini, and CrewAI for seamless AI-agent capabilities.
 
 🔍 **Key Features**
+
 📄 Document-Aware Answers
 
 Parses .pdf and .docx files from your docs/ folder.
@@ -43,6 +45,7 @@ Local agent: Gemini 1.5 (flash) for fast document Q&A.
 Web agent: Gemini + Serper-backed CrewAI agent.
 
 🔗 **Tech Stack**
+
 LangChain → Chaining and RetrievalQA
 
 FAISS → Vector similarity search

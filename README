@@ -3,7 +3,7 @@
 🤖 This is an **Agentic AI and RAG Q&A AI assistant** — an agent that can answer questions by searching local documents (PDF/DOCX) and, if needed, autonomously falling back to web search agent using CrewAI + Serper. It detects question language (English or Spanish), provides contextual answers, and even translates responses automatically when required.
 
 🧠 **What is This Project?**
-This assistant is a hybrid retrieval-augmented question-answering system that can:
+This assistant is a hybrid retrieval-augmented question-answering system that can do:
 
 Maintain context from your documents (knowledge base).
 
